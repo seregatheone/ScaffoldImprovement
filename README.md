@@ -1,6 +1,6 @@
 # Scaffold improvement
 
-## This project will present an improved implementation of the template to create a multi-module  
+## This project will present an improved implementation of the template to create a multi-module application
 
 ## Objective to be achieved as a result of the development:  
 
